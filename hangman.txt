@@ -1,0 +1,5 @@
+HANGMAN
+Instructions:
+Pick a level from the menu. Insert a letter of the american alphabet and see if it is in the word. If it is, continue inserting letters until you have completed the word. Then, you can choose to play either of the levels again.
+If it is not, you will lose one life. The program will print the list of letters you insert that aren't in the word.
+If you don't have lifes left, the program will stop. 
